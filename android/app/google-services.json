@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900777555358",
+    "project_id": "myfirstpro1-87a95",
+    "storage_bucket": "myfirstpro1-87a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900777555358:android:13d08bf1dfef747a9a928f",
+        "android_client_info": {
+          "package_name": "com.pits.newChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900777555358-o56bipnqfc1i89alduieoffnu14q786e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMoirwbZK7gWsbptPgDLdakmxoPsEZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900777555358-o56bipnqfc1i89alduieoffnu14q786e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
